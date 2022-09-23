@@ -1,4 +1,4 @@
-# Projeto simples para listar todos os Países e sua quantidade de populacao
+# Projeto listar Países e População
 
 # --Tecnologias--
 - HTML 5
